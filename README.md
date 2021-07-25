@@ -1,3 +1,4 @@
+[![hackmd-github-sync-badge](https://hackmd.io/7Ltr4ZQWSJiCF-HhsIKvqw/badge)](https://hackmd.io/7Ltr4ZQWSJiCF-HhsIKvqw)
 ![狀態:成功](https://img.shields.io/badge/status-success-orange)
 # BMI_Calculator
 
